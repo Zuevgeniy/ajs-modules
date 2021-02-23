@@ -30,8 +30,8 @@ module.exports = {
         ],
       },
       {
-        test: /\.txt$/, // маска для имени файла
-        use: 'raw-loader' // какой загрузчик использовать
+        test: /\.txt$/,
+        use: 'raw-loader' 
       },
     ],
   },

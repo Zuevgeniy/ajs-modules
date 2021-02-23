@@ -1,5 +1,5 @@
 {
-  "name": "ajs-homeworks-modules-webpack",
+  "name": "ajs-modules",
   "version": "1.0.0",
   "description": "homework",
   "main": "webpack.config.js",
@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivalynx/ajs-homeworks-modules-webpack.git"
+    "url": "git+https://github.com/Zuevgeniy/ajs-modules.git"
   },
   "keywords": [
     "homework"
   ],
-  "author": "ivalynx",
+  "author": "Zuevgeniy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ivalynx/ajs-homeworks-modules-webpack/issues"
+    "url": "https://github.com/Zuevgeniy/ajs-modules/issues"
   },
-  "homepage": "https://github.com/ivalynx/ajs-homeworks-modules-webpack#readme",
+  "homepage": "https://github.com/Zuevgeniy/ajs-modules#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
